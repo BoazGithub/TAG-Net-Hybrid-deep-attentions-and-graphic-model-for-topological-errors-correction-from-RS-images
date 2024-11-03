@@ -9,3 +9,8 @@ The brief contribution of this study is to address the integration of deep learn
 
 ## Optimization under Bayesian
 ![image](https://github.com/user-attachments/assets/7feb4ce4-26dc-43f3-9cc8-c7a495eb930b)
+
+
+# TAG-Para Network model complexity
+
+![iou_parameters_plot38_page-0001](https://github.com/user-attachments/assets/a8a5cba5-1e19-4bdf-9691-6da30ee8dded)
