@@ -6,6 +6,9 @@ The brief contribution of this study is to address the integration of deep learn
 
 ![image](https://github.com/user-attachments/assets/ce44e15c-9e1a-4575-8d76-885901fb0328)
 
+# Qualitative results
+
+![MassachusettsVisual comparison of different architecture_page-0001](https://github.com/user-attachments/assets/4086acd4-eac4-4cf6-b052-c21ce2b992cd)
 
 ## Optimization under Bayesian
 Portrays the variations in uncertainty levels, which means the
